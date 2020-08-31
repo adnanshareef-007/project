@@ -1,10 +1,19 @@
+html{
+    min-height: 100%;
+}
 body{
+    min-height: 100%;
     margin: 0;
     padding: 0;
     background: url(image1.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
+}
+
+#top_text{
+    text-align: center;
+    color: #362504;
 }
 .login-box{
     width: 300px;
@@ -77,65 +86,3 @@ h1{
 {
     color: #39dc79;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
