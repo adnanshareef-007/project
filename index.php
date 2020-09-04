@@ -8,7 +8,7 @@
                 
                 <h2  id=top_text> WELCOME TO ONLINE BANKING</h2>
             <div class="login-box">
-            <img src="images/avatar.png" class="avatar">
+            <img src="images/avatar.png" class="avatar" alt="bank logo here">
                 <h1>Login Here</h1>
                     <form>
                     <p>Username</p>
@@ -16,8 +16,8 @@
                     <p>Password</p>
                     <input type="password" name="password" placeholder="Enter Password">
                     <input type="submit" name="submit" value="Login">
-                    <a href="forgot%20password.html">forgot password</a>    </br></br>
-                        <a href="create account.html">Create Account</a>    
+                    <a href="forgotpwd.php">forgot password</a>    <br>
+                        <a href="createaccount.php">Create Account</a>    
                     </form>
                 
                 
