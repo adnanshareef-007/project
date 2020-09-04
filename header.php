@@ -1,3 +1,6 @@
+<?php
+    require "header.php";
+?>
 <!DOCTYPE HTML>
 <html>
         <head lang=en>
