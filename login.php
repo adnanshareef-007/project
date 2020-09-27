@@ -19,7 +19,7 @@
                     <p>Password</p>
                     <input type="password" name="password" placeholder="Enter Password">
                     <input type="submit" name="submit" value="Login">
-                    <a href="forgotpwd.php">forgot password</a>    <br>
+                    <a href="forgotpwd.php">Forgot Password</a>    <br>
                         <a href="createaccount.php">Create Account</a>    
                     </form>
                 
